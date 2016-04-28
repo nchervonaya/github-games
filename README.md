@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+## Welcome to GitHub Games - Hi NC; lest work on games, 4/28/2016
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
